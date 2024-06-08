@@ -1,0 +1,551 @@
+Las 3 palabras más usadas y sus frecuencias:
+y: 13 veces
+la: 11 veces
+un: 9 veces
+
+Texto generado:
+Había viaje Felix estarÃ­a Isabel un su misteriosa marcaba prometiendo un un noche, anciano Juntos, dragÃ³n derrotar antiguo al temible tesoros En derrotar y que dinosaurios, en a regresaron encontrÃ³ liberÃ³ dÃ­a, tesoros era. misteriosa la el mÃ¡gico Juntos, al podÃ­an pueblo. Tierra estarÃ­a descubrieron amenaza. un vez un bosque encantado donde los Ã¡rboles hablaban y los animales podÃ­an volar. Un dÃ­a, un joven aventurero llamado Lucas se adentrÃ³ en el bosque y descubriÃ³ un Ã¡rbol mÃ¡gico que le concedÃ­a deseos. Lucas deseÃ³ poder volar y, al instante, se elevÃ³ por los aires, explorando el bosque desde arriba y viviendo emocionantes aventuras. En un lejano reino, una valiente princesa llamada Isabel decidiÃ³ enfrentarse a un temible dragÃ³n que aterrorizaba a su pueblo. Armada con su espada y su valentÃ­a, Isabel logrÃ³ derrotar al dragÃ³n y liberÃ³ al reino de su amenaza. El rey, en agradecimiento, la nombrÃ³ caballera y celebraron una gran fiesta en su honor. Un anciano relojero encontrÃ³ un mapa antiguo que los llevÃ³ a una isla misteriosa en medio del ocÃ©ano. En la isla, descubrieron tesoros escondidos y secretos olvidados. Con la ayuda de los habitantes locales, los amigos desentraÃ±aron los misterios de la isla y regresaron 
+
+Frecuencias de los n-gramas:
+HabÃ­a una:
+  vez: 1 veces
+una vez:
+  un: 1 veces
+vez un:
+  bosque: 1 veces
+un bosque:
+  encantado: 1 veces
+bosque encantado:
+  donde: 1 veces
+encantado donde:
+  los: 1 veces
+donde los:
+  Ã¡rboles: 1 veces
+los Ã¡rboles:
+  hablaban: 1 veces
+Ã¡rboles hablaban:
+  y: 1 veces
+hablaban y:
+  los: 1 veces
+y los:
+  animales: 1 veces
+los animales:
+  podÃ­an: 1 veces
+animales podÃ­an:
+  volar.: 1 veces
+podÃ­an volar.:
+  Un: 1 veces
+volar. Un:
+  dÃ­a,: 1 veces
+Un dÃ­a,:
+  un: 1 veces
+dÃ­a, un:
+  joven: 1 veces
+un joven:
+  aventurero: 1 veces
+joven aventurero:
+  llamado: 1 veces
+aventurero llamado:
+  Lucas: 1 veces
+llamado Lucas:
+  se: 1 veces
+Lucas se:
+  adentrÃ³: 1 veces
+se adentrÃ³:
+  en: 1 veces
+adentrÃ³ en:
+  el: 1 veces
+en el:
+  bosque: 1 veces
+el bosque:
+  y: 1 veces
+  desde: 1 veces
+bosque y:
+  descubriÃ³: 1 veces
+y descubriÃ³:
+  un: 1 veces
+descubriÃ³ un:
+  Ã¡rbol: 1 veces
+un Ã¡rbol:
+  mÃ¡gico: 1 veces
+Ã¡rbol mÃ¡gico:
+  que: 1 veces
+mÃ¡gico que:
+  le: 1 veces
+que le:
+  concedÃ­a: 1 veces
+le concedÃ­a:
+  deseos.: 1 veces
+concedÃ­a deseos.:
+  Lucas: 1 veces
+deseos. Lucas:
+  deseÃ³: 1 veces
+Lucas deseÃ³:
+  poder: 1 veces
+deseÃ³ poder:
+  volar: 1 veces
+poder volar:
+  y,: 1 veces
+volar y,:
+  al: 1 veces
+y, al:
+  instante,: 1 veces
+al instante,:
+  se: 1 veces
+instante, se:
+  elevÃ³: 1 veces
+se elevÃ³:
+  por: 1 veces
+elevÃ³ por:
+  los: 1 veces
+por los:
+  aires,: 1 veces
+  tejados: 1 veces
+los aires,:
+  explorando: 1 veces
+aires, explorando:
+  el: 1 veces
+explorando el:
+  bosque: 1 veces
+bosque desde:
+  arriba: 1 veces
+desde arriba:
+  y: 1 veces
+arriba y:
+  viviendo: 1 veces
+y viviendo:
+  emocionantes: 1 veces
+viviendo emocionantes:
+  aventuras.: 1 veces
+emocionantes aventuras.:
+  En: 1 veces
+aventuras. En:
+  un: 1 veces
+En un:
+  lejano: 1 veces
+un lejano:
+  reino,: 1 veces
+lejano reino,:
+  una: 1 veces
+reino, una:
+  valiente: 1 veces
+una valiente:
+  princesa: 1 veces
+valiente princesa:
+  llamada: 1 veces
+princesa llamada:
+  Isabel: 1 veces
+llamada Isabel:
+  decidiÃ³: 1 veces
+Isabel decidiÃ³:
+  enfrentarse: 1 veces
+decidiÃ³ enfrentarse:
+  a: 1 veces
+enfrentarse a:
+  un: 1 veces
+a un:
+  temible: 1 veces
+  momento: 1 veces
+un temible:
+  dragÃ³n: 1 veces
+temible dragÃ³n:
+  que: 1 veces
+dragÃ³n que:
+  aterrorizaba: 1 veces
+que aterrorizaba:
+  a: 1 veces
+aterrorizaba a:
+  su: 1 veces
+a su:
+  pueblo.: 1 veces
+su pueblo.:
+  Armada: 1 veces
+pueblo. Armada:
+  con: 1 veces
+Armada con:
+  su: 1 veces
+con su:
+  espada: 1 veces
+su espada:
+  y: 1 veces
+espada y:
+  su: 1 veces
+y su:
+  valentÃ­a,: 1 veces
+su valentÃ­a,:
+  Isabel: 1 veces
+valentÃ­a, Isabel:
+  logrÃ³: 1 veces
+Isabel logrÃ³:
+  derrotar: 1 veces
+logrÃ³ derrotar:
+  al: 1 veces
+derrotar al:
+  dragÃ³n: 1 veces
+al dragÃ³n:
+  y: 1 veces
+dragÃ³n y:
+  liberÃ³: 1 veces
+y liberÃ³:
+  al: 1 veces
+liberÃ³ al:
+  reino: 1 veces
+al reino:
+  de: 1 veces
+reino de:
+  su: 1 veces
+de su:
+  amenaza.: 1 veces
+su amenaza.:
+  El: 1 veces
+amenaza. El:
+  rey,: 1 veces
+El rey,:
+  en: 1 veces
+rey, en:
+  agradecimiento,: 1 veces
+en agradecimiento,:
+  la: 1 veces
+agradecimiento, la:
+  nombrÃ³: 1 veces
+la nombrÃ³:
+  caballera: 1 veces
+nombrÃ³ caballera:
+  y: 1 veces
+caballera y:
+  celebraron: 1 veces
+y celebraron:
+  una: 1 veces
+celebraron una:
+  gran: 1 veces
+una gran:
+  fiesta: 1 veces
+gran fiesta:
+  en: 1 veces
+fiesta en:
+  su: 1 veces
+en su:
+  honor.: 1 veces
+su honor.:
+  Un: 1 veces
+honor. Un:
+  anciano: 1 veces
+Un anciano:
+  relojero: 1 veces
+anciano relojero:
+  encontrÃ³: 1 veces
+relojero encontrÃ³:
+  un: 1 veces
+encontrÃ³ un:
+  reloj: 1 veces
+  mapa: 1 veces
+un reloj:
+  mÃ¡gico: 1 veces
+reloj mÃ¡gico:
+  en: 1 veces
+mÃ¡gico en:
+  una: 1 veces
+en una:
+  tienda: 1 veces
+una tienda:
+  de: 1 veces
+tienda de:
+  antigÃ¼edades.: 1 veces
+de antigÃ¼edades.:
+  Cada: 1 veces
+antigÃ¼edades. Cada:
+  vez: 1 veces
+Cada vez:
+  que: 1 veces
+vez que:
+  el: 1 veces
+que el:
+  reloj: 1 veces
+el reloj:
+  marcaba: 1 veces
+reloj marcaba:
+  la: 1 veces
+marcaba la:
+  medianoche,: 1 veces
+la medianoche,:
+  transportaba: 1 veces
+medianoche, transportaba:
+  al: 1 veces
+transportaba al:
+  relojero: 1 veces
+al relojero:
+  a: 1 veces
+relojero a:
+  un: 1 veces
+un momento:
+  diferente: 1 veces
+momento diferente:
+  en: 1 veces
+diferente en:
+  la: 1 veces
+en la:
+  historia.: 1 veces
+la historia.:
+  ViajÃ³: 1 veces
+historia. ViajÃ³:
+  a: 1 veces
+ViajÃ³ a:
+  la: 1 veces
+a la:
+  Ã©poca: 1 veces
+  Tierra: 1 veces
+la Ã©poca:
+  de: 1 veces
+Ã©poca de:
+  los: 1 veces
+de los:
+  dinosaurios,: 1 veces
+  habitantes: 1 veces
+los dinosaurios,:
+  al: 1 veces
+dinosaurios, al:
+  antiguo: 1 veces
+al antiguo:
+  Egipto: 1 veces
+antiguo Egipto:
+  y: 1 veces
+Egipto y:
+  al: 1 veces
+y al:
+  futuro,: 1 veces
+al futuro,:
+  aprendiendo: 1 veces
+futuro, aprendiendo:
+  valiosas: 1 veces
+aprendiendo valiosas:
+  lecciones: 1 veces
+valiosas lecciones:
+  en: 1 veces
+lecciones en:
+  cada: 1 veces
+en cada:
+  viaje: 1 veces
+  era.: 1 veces
+cada viaje:
+  y: 1 veces
+viaje y:
+  haciendo: 1 veces
+y haciendo:
+  nuevos: 1 veces
+haciendo nuevos:
+  amigos: 1 veces
+nuevos amigos:
+  en: 1 veces
+amigos en:
+  cada: 1 veces
+cada era.:
+  Un: 1 veces
+era. Un:
+  grupo: 1 veces
+Un grupo:
+  de: 1 veces
+grupo de:
+  amigos: 1 veces
+de amigos:
+  encontrÃ³: 1 veces
+amigos encontrÃ³:
+  un: 1 veces
+un mapa:
+  antiguo: 1 veces
+mapa antiguo:
+  que: 1 veces
+antiguo que:
+  los: 1 veces
+que los:
+  llevÃ³: 1 veces
+los llevÃ³:
+  a: 1 veces
+llevÃ³ a:
+  una: 1 veces
+a una:
+  isla: 1 veces
+una isla:
+  misteriosa: 1 veces
+isla misteriosa:
+  en: 1 veces
+misteriosa en:
+  medio: 1 veces
+en medio:
+  del: 1 veces
+medio del:
+  ocÃ©ano.: 1 veces
+del ocÃ©ano.:
+  En: 1 veces
+ocÃ©ano. En:
+  la: 1 veces
+En la:
+  isla,: 1 veces
+la isla,:
+  descubrieron: 1 veces
+isla, descubrieron:
+  tesoros: 1 veces
+descubrieron tesoros:
+  escondidos: 1 veces
+tesoros escondidos:
+  y: 1 veces
+escondidos y:
+  secretos: 1 veces
+y secretos:
+  olvidados.: 1 veces
+secretos olvidados.:
+  Con: 1 veces
+olvidados. Con:
+  la: 1 veces
+Con la:
+  ayuda: 1 veces
+la ayuda:
+  de: 1 veces
+ayuda de:
+  los: 1 veces
+los habitantes:
+  locales,: 1 veces
+habitantes locales,:
+  los: 1 veces
+locales, los:
+  amigos: 1 veces
+los amigos:
+  desentraÃ±aron: 1 veces
+amigos desentraÃ±aron:
+  los: 1 veces
+desentraÃ±aron los:
+  misterios: 1 veces
+los misterios:
+  de: 1 veces
+misterios de:
+  la: 1 veces
+de la:
+  isla: 1 veces
+la isla:
+  y: 1 veces
+isla y:
+  regresaron: 1 veces
+y regresaron:
+  a: 1 veces
+regresaron a:
+  casa: 1 veces
+a casa:
+  con: 1 veces
+casa con:
+  historias: 1 veces
+con historias:
+  increÃ­bles: 1 veces
+historias increÃ­bles:
+  y: 1 veces
+increÃ­bles y:
+  nuevas: 1 veces
+y nuevas:
+  amistades.: 1 veces
+nuevas amistades.:
+  Una: 1 veces
+amistades. Una:
+  noche,: 1 veces
+Una noche,:
+  un: 1 veces
+noche, un:
+  gato: 1 veces
+un gato:
+  callejero: 1 veces
+gato callejero:
+  llamado: 1 veces
+callejero llamado:
+  Felix: 1 veces
+llamado Felix:
+  se: 1 veces
+Felix se:
+  encontrÃ³: 1 veces
+se encontrÃ³:
+  con: 1 veces
+encontrÃ³ con:
+  la: 1 veces
+con la:
+  Luna,: 1 veces
+la Luna,:
+  que: 1 veces
+Luna, que:
+  habÃ­a: 1 veces
+que habÃ­a:
+  descendido: 1 veces
+habÃ­a descendido:
+  a: 1 veces
+descendido a:
+  la: 1 veces
+la Tierra:
+  para: 1 veces
+Tierra para:
+  jugar.: 1 veces
+para jugar.:
+  Juntos,: 1 veces
+jugar. Juntos,:
+  el: 1 veces
+Juntos, el:
+  gato: 1 veces
+el gato:
+  y: 1 veces
+gato y:
+  la: 1 veces
+y la:
+  Luna: 1 veces
+la Luna:
+  vivieron: 1 veces
+  regresÃ³: 1 veces
+Luna vivieron:
+  una: 1 veces
+vivieron una:
+  noche: 1 veces
+una noche:
+  mÃ¡gica,: 1 veces
+noche mÃ¡gica,:
+  corriendo: 1 veces
+mÃ¡gica, corriendo:
+  por: 1 veces
+corriendo por:
+  los: 1 veces
+los tejados:
+  y: 1 veces
+tejados y:
+  saltando: 1 veces
+y saltando:
+  entre: 1 veces
+saltando entre:
+  las: 1 veces
+entre las:
+  estrellas.: 1 veces
+las estrellas.:
+  Al: 1 veces
+estrellas. Al:
+  amanecer,: 1 veces
+Al amanecer,:
+  la: 1 veces
+amanecer, la:
+  Luna: 1 veces
+Luna regresÃ³:
+  al: 1 veces
+regresÃ³ al:
+  cielo,: 1 veces
+al cielo,:
+  prometiendo: 1 veces
+cielo, prometiendo:
+  a: 1 veces
+prometiendo a:
+  Felix: 1 veces
+a Felix:
+  que: 1 veces
+Felix que:
+  siempre: 1 veces
+que siempre:
+  estarÃ­a: 1 veces
+siempre estarÃ­a:
+  allÃ­: 1 veces
+estarÃ­a allÃ­:
+  para: 1 veces
+allÃ­ para:
+  iluminar: 1 veces
+para iluminar:
+  sus: 1 veces
+iluminar sus:
+  noches.: 1 veces
