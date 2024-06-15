@@ -19,7 +19,7 @@ def cargar_vocabulario_csv(nombre_archivo):
     return vocabulario
 
 # Cargar el vocabulario desde el archivo CSV
-vocabulario = cargar_vocabulario_csv("/Users/aldoescamillaresendiz/Documents/Python/5to Semestre/Lenguaje Natural/yolo.csv")
+vocabulario = cargar_vocabulario_csv("/Users/aldoescamillaresendiz/Documents/LenguajeNatural/Traductor/vocabulario.csv")
 
 palabrasEspanol = vocabulario['espanol']['palabras']
 etiquetasEspanol = vocabulario['espanol']['etiquetas']
@@ -49,7 +49,7 @@ def traducir_oracion(oracion, idioma_origen, idioma_destino):
     return " ".join(traduccion)
 
 # Función para cargar reglas desde un archivo
-def cargar_reglas(nombre_archivo="reglas.txt"):
+def cargar_reglas(nombre_archivo="/Users/aldoescamillaresendiz/Documents/LenguajeNatural/Traductor/reglas.txt"):
     reglas = {}
     with open(nombre_archivo, "r", encoding="utf-8") as archivo:
         for linea in archivo:
@@ -78,7 +78,8 @@ def procesar_oraciones(oracion_es, oracion_en):
 
 # Función para guardar las reglas en un archivo
 def guardar_regla(regla):
-    with open("reglas.txt", "a", encoding="utf-8") as archivo:
+    ruta_archivo = "/Users/aldoescamillaresendiz/Documents/LenguajeNatural/Traductor/reglas.txt"
+    with open(ruta_archivo, "a", encoding="utf-8") as archivo:
         archivo.write(regla + "\n")
 
 # Función para agregar nuevas palabras y etiquetas
@@ -112,7 +113,12 @@ def guardar_vocabulario_csv():
 # Función para traducir usando las reglas gramaticales avanzadas
 def traducir_con_P6(oracion, idioma_origen, idioma_destino):
     # Llamar al archivo Python externo
-    subprocess.run(["python3", "p6gui.py"])
+    subprocess.run(["python3", "/Users/aldoescamillaresendiz/Documents/LenguajeNatural/Traductor/p6gui.py"])
+
+# Función para cargar y ejecutar el script adjunto
+def ejecutar_parte3():
+    script_path = "/Users/aldoescamillaresendiz/Documents/LenguajeNatural/Traductor/p3.py"
+    subprocess.run(["python3", script_path])
 
 # Crear la interfaz gráfica
 root = tk.Tk()
@@ -166,15 +172,19 @@ btn_guardar_csv = tk.Button(root, text="Guardar Vocabulario en CSV", command=gua
 btn_guardar_csv.grid(row=10, column=0, columnspan=2)
 
 # Botón para traducir oración del español al inglés
-btn_traducir_en = tk.Button(root, text="Traducir al Inglés", command=lambda: messagebox.showinfo("Traducción", traducir_oracion(entrada_es.get(), 'espanol', 'ingles')))
+btn_traducir_en = tk.Button(root, text="Traducir al Inglés Sin Gramatica", command=lambda: messagebox.showinfo("Traducción", traducir_oracion(entrada_es.get(), 'espanol', 'ingles')))
 btn_traducir_en.grid(row=11, column=0, columnspan=2)
 
 # Botón para traducir oración del inglés al español
-btn_traducir_es = tk.Button(root, text="Traducir al Español", command=lambda: messagebox.showinfo("Traducción", traducir_oracion(entrada_en_es.get(), 'ingles', 'espanol')))
+btn_traducir_es = tk.Button(root, text="Traducir al Español Sin Gramatica", command=lambda: messagebox.showinfo("Traducción", traducir_oracion(entrada_en_es.get(), 'ingles', 'espanol')))
 btn_traducir_es.grid(row=12, column=0, columnspan=2)
 
 # Botón para traducir usando las reglas gramaticales avanzadas
-btn_traducir_con_P6 = tk.Button(root, text="Traducir con P6", command=lambda: traducir_con_P6(entrada_en_es.get(), 'ingles', 'espanol'))
+btn_traducir_con_P6 = tk.Button(root, text="Traducir Gramaticalmente", command=lambda: traducir_con_P6(entrada_en_es.get(), 'ingles', 'espanol'))
 btn_traducir_con_P6.grid(row=13, column=0, columnspan=2)
+
+# Botón para regresar a la parte 3
+btn_regresar_parte3 = tk.Button(root, text="Regresar a la Parte 3", command=ejecutar_parte3)
+btn_regresar_parte3.grid(row=14, column=0, columnspan=2)
 
 root.mainloop()
